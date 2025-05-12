@@ -6,5 +6,3 @@ The goal is to help businesses better understand churn drivers and take proactiv
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data)  
 [Tableau Dashboard](https://public.tableau.com/app/profile/blake.smith1551/viz/TelecomChurnAnalysis_17470623040680/Dashboard1)
-
-![Dashboard](https://github.com/Blake-Allan-Smith/Customer-Churn/releases/tag/Dashboard?raw=true)
